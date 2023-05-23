@@ -6,6 +6,7 @@
 * [Accessibility](#Accessibility)
 * [Professional](#Professional)
 * [Other](#Other)
+* [Practice](#Practice)
 
 
 ## Design
@@ -16,6 +17,7 @@
 
 ### Figma 
 [Figma Tips to Design Faster](https://buninux.com/learn/)
+[Layout Grids Best Practice](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/additional-tips/#using-grids-to-visualize-padding)
 
 
 ### Visual Design
@@ -44,5 +46,9 @@
 
 ## Other
 * [Behance](https://www.behance.net/)
+
+
+## Exercises 
+* [11 Figma Activities](https://www.figma.com/blog/eleven-activities-for-your-classroom/)
 
 
