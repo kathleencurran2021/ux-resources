@@ -13,6 +13,9 @@
 * [Increasing Autonomy in Design](https://www.nngroup.com/articles/increase-user-autonomy/?utm_source=Alertbox&utm_campaign=61c6f1fe29-EMAIL_CAMPAIGN_2020_11_12_08_52_COPY_01&utm_medium=email&utm_term=0_7f29a2b335-61c6f1fe29-40756505)
 * [Design System](https://www.nngroup.com/articles/design-systems-101/)
 * [UI Design Tips](https://www.uidesign.tips/ui-tips)
+* [E-commerce design samples](https://baymard.com/ecommerce-design-examples)
+* [The Art of UX Sketching](https://www.toptal.com/designers/ux/guide-to-ux-sketching)
+* 
 
 
 ### Figma 
@@ -23,6 +26,8 @@
 ### Visual Design
 * [Pairing Typefaces](https://www.nngroup.com/articles/pairing-typefaces/?utm_source=Alertbox&utm_campaign=0f04c3b8bc-EMAIL_CAMPAIGN_2020_11_12_08_52_COPY_01&utm_medium=email&utm_term=0_7f29a2b335-0f04c3b8bc-40756505)
 * [Visual Hierarchy Intro](https://www.nngroup.com/articles/visual-hierarchy-ux-definition/)
+* [Scalable Typography in a design system](https://uxdesign.cc/design-systems-how-to-create-a-scalable-typography-stack-b7099222cd19)
+* 
 
 ### Resources 
 * [Material Design](https://m3.material.io/)
