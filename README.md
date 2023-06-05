@@ -32,6 +32,9 @@
 ### Resources 
 * [Material Design](https://m3.material.io/)
 * [Figma Templates/UI Kits](https://www.uxcrush.com/)
+* [10 design systems](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
+* [Design inspiration](https://designvault.io/)
+* [Design Resources and Tools](https://www.toools.design/ui-web-design-inspiration-websites#portfolio)
 
 
 
@@ -55,5 +58,6 @@
 
 ## Exercises 
 * [11 Figma Activities](https://www.figma.com/blog/eleven-activities-for-your-classroom/)
+* [Idea generator](https://sharpen.design/)
 
 
