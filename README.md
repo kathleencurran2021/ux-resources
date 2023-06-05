@@ -35,6 +35,7 @@
 * [10 design systems](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
 * [Design inspiration](https://designvault.io/)
 * [Design Resources and Tools](https://www.toools.design/ui-web-design-inspiration-websites#portfolio)
+* [Bright Design Kit](https://fabrx.co/brightkit-html-demo/html/wireframes.html)
 
 
 
