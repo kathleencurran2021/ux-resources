@@ -15,7 +15,7 @@
 * [UI Design Tips](https://www.uidesign.tips/ui-tips)
 * [E-commerce design samples](https://baymard.com/ecommerce-design-examples)
 * [The Art of UX Sketching](https://www.toptal.com/designers/ux/guide-to-ux-sketching)
-* 
+* [8-point Grid](https://spec.fm/specifics/8-pt-grid)
 
 
 ### Figma 
