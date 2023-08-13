@@ -19,15 +19,36 @@
 
 
 ### Figma 
-[Figma Tips to Design Faster](https://buninux.com/learn/)
-[Layout Grids Best Practice](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/additional-tips/#using-grids-to-visualize-padding)
+* [Figma Tips to Design Faster](https://buninux.com/learn/)
+* [Layout Grids Best Practice](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/additional-tips/#using-grids-to-visualize-padding)
+* [Wave Generator](https://getwaves.io/)
+* [Mockup visuals (paste screenshot onto phone)](https://mockuuups.studio/)
 
 
-### Visual Design
+### Typography
 * [Pairing Typefaces](https://www.nngroup.com/articles/pairing-typefaces/?utm_source=Alertbox&utm_campaign=0f04c3b8bc-EMAIL_CAMPAIGN_2020_11_12_08_52_COPY_01&utm_medium=email&utm_term=0_7f29a2b335-0f04c3b8bc-40756505)
-* [Visual Hierarchy Intro](https://www.nngroup.com/articles/visual-hierarchy-ux-definition/)
 * [Scalable Typography in a design system](https://uxdesign.cc/design-systems-how-to-create-a-scalable-typography-stack-b7099222cd19)
-* 
+* [Wordmark](https://wordmark.it/)
+* [Fontpair](https://www.fontpair.co/)
+
+### Color 
+* [Color Palette Inspiration](https://www.happyhues.co/)
+* [AI Color Palette](https://www.khroma.co/train)
+
+
+### Illustrations 
+* [Drawkit](https://www.drawkit.com/)
+* [Flaticon - icons and stickers](https://www.flaticon.com/)
+* [Icon Scout](https://iconscout.com/)
+* [Icons8 illustrations](https://icons8.com/illustrations)
+* [Blush Design](https://blush.design/collections)
+* [Person Generator](https://stubborn.fun/)
+* [Undraw](https://undraw.co/illustrations)
+
+
+
+### Hierarchy
+* [Visual Hierarchy Intro](https://www.nngroup.com/articles/visual-hierarchy-ux-definition/)
 
 ### Resources 
 * [Material Design](https://m3.material.io/)
@@ -44,8 +65,28 @@
 
 ## Research
 
+### General Research Resources
+* [Apple and Banana](https://www.appleandbanana.org/articles)
+
+### Recruiting Participants
+* [Writing Participant Screeners](https://www.userfocus.co.uk/articles/screeners.html)
+* [User Interviews Incentive Calculator](https://www.userinterviews.com/lp/ux-research-incentive-calculator?source=navbarIncentiveCalcResearcher)
+
+### Usability Testing
+* [Tough Participants](https://medium.com/@userfocus/dealing-with-difficult-usability-test-participants-113474fd5925)
+* 
+
+### Research Reports
+* [Pragmatic Guide to Research Reports](https://www.appleandbanana.org/articles/a-pragmatic-guide-for-writing-ux-research-reports-that-people-love)
+* [Structuring a Research Report](https://dovetail.com/blog/writing-format-ux-research-report/)
+
+### Data Analysis
+* [Theming](https://www.appleandbanana.org/articles/turn-qualitative-data-into-themes)
+
 
 ## Accessibility
+* [Microsoft Inclusive Design Kit](https://inclusive.microsoft.design/)
+* [Accessible User Research Guide Part 1](https://dscout.com/people-nerds/accessible-user-research-1)
 
 
 ## Professional 
